@@ -59,7 +59,7 @@ Once the issue has been resolved, the ticket can be marked as closed. In the osT
 </p>
 <br />
 <p>
-So those are the four stages of the ticket lifecycle! Tickets play a significant role in my work, whether I'm handling helpdesk queries, working on systems, networking, security, or cloud-related tasks. Therefore, it's essential for me to be familiar with how ticketing systems function and the lifecycle they follow.
+So those are the four stages of the ticket lifecycle! Tickets play a significant role in my work, whether I'm handling helpdesk queries, working on systems, networking, security, or cloud-related tasks.
 </p>
 <br />
 
